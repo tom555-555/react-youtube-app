@@ -1,0 +1,19 @@
+.wrap {
+  flex-grow: 2;
+  padding: 1rem;
+  width: 100%;
+
+  p {
+    color: white;
+    font-size: 0.9rem;
+  }
+
+  pre {
+    color: white;
+    line-height: 1.8rem;
+    overflow: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-size: 0.9rem;
+  }
+}
